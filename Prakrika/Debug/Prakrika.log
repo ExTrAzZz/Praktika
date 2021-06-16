@@ -1,0 +1,4 @@
+﻿  Prakrika.cpp
+C:\Users\holst\source\repos\Prakrika\Prakrika\Prakrika.cpp(10,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\holst\source\repos\Prakrika\Prakrika\Prakrika.cpp(104,9): warning C4551: в вызове функции отсутствует список аргументов
+  Prakrika.vcxproj -> C:\Users\holst\source\repos\Prakrika\Debug\Prakrika.exe
